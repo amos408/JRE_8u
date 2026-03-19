@@ -1,2 +1,2 @@
 # JRE_8u
-ava Runtime Environment (JRE)
+Java Runtime Environment (JRE)
